@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# Logs
+logs/
+*.log
+
+# Sorting Reports
+sorting_report.txt
+
+# Environment
+.venv/
+venv/
+ENV/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
