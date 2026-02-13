@@ -24,7 +24,7 @@ No installation required if you use the standalone executable.
 ### Running from Source
 1. Clone the repository:
    ```bash
-   git clone https://github.com/StartCreating/python-imagesorter.git
+   git clone https://github.com/tapz-27/python-imagesorter.git
    cd python-imagesorter
    ```
 2. Install dependencies:
